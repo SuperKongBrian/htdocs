@@ -6,10 +6,7 @@
 <link href="bitnami.css" media="all" rel="Stylesheet" type="text/css" />
 </head>
 <body>
-<?
-phpinfo();
-?>
-HELLO WORLD
+HELLO WORLD222
 <div id="container">
   <div id="header"> 
     <div id="bitnami">
